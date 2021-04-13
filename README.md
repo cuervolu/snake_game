@@ -1,2 +1,2 @@
-# snake_game
-A snake game made in python following a tutorial created by Engineer Man 
+
+This is a Snake Game made in python following the tutorial of Engineer Man in youtube. You can watch the tutorial [here](https://youtu.be/rbasThWVb-c)  
